@@ -4,9 +4,6 @@ This python package provides a bridge for communicating between Carla's Python A
 
 <center><img src="gifs/2.gif" width = "625"></center>
 
-<center><img src="gifs/1.gif" width = "625"></center>
-
-<center><img src="gifs/3.gif" width = "625"></center>
 
 <center><img src="gifs/4.gif" width = "625"></center>
 
