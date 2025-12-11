@@ -2,13 +2,13 @@
 
 This python package provides a bridge for communicating between Carla's Python API and Apollo.  Besides the source code, a Dockerfile and scripts are provided for getting setup quickly and easily.  This package was tested with Carla version 0.9.13, and Apollo v7.0.0 and v8.0.0.
 
-<center><img src="gifs/1" width = "625"></center>
+<center><img src="gifs/1.gif" width = "625"></center>
 
-<center><img src="gifs/2" width = "625"></center>
+<center><img src="gifs/2.gif" width = "625"></center>
 
-<center><img src="gifs/3" width = "625"></center>
+<center><img src="gifs/3.gif" width = "625"></center>
 
-<center><img src="gifs/4" width = "625"></center>
+<center><img src="gifs/4.gif" width = "625"></center>
 
 ## Installation
 
